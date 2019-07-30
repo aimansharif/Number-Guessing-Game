@@ -33,7 +33,7 @@ while (true) {
 console.log("Exit while loop");
 
 
-
+//JavaScript Notes
 // == allows comparison by making type correction
 // === does not make type correction, both have to be the exact same type 
 // in order for the result to be true
